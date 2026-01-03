@@ -28,9 +28,9 @@ The goal was to move beyond simple reporting to **Strategic Analysis**, focusing
 ---
 
 ### 📷 Dashboard Preview
-![Dashboard Cover](Dashboard Snapshots/2.png) 
+![Dashboard Cover](Dashboard%20Snapshots/2.png)
 
-> *Check out the `Assets` folder for more screenshots and design details.*
+> *Check out the `Dashboard Snapshots` folder for more screenshots and design details.*
 
 ---
 
